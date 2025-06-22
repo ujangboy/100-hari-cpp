@@ -93,7 +93,7 @@ using namespace std;
   */  
   
 
-  #include <iostream>
+  /*#include <iostream>
   using namespace std;
 
   int main(){
@@ -103,4 +103,23 @@ using namespace std;
     }
        cout << "alamat array dari x: " << x;
     return 0;
+  }*/
+
+  #include <iostream>
+  using namespace std;
+
+  int main(){
+
+    int jono = 20;
+    int *ptr = &jono;
+
+    cout << "no jono: " << jono <<endl;
+    cout << "alamat jono: " << &jono << endl;
+    cout << "nilai alamat jono: " << ptr << endl;
+    cout << "nilai yang ditunjuk ptr: " << *ptr << endl;
+
+
+    return 0;
   }
+
+  
