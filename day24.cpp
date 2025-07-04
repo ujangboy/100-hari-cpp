@@ -16,7 +16,7 @@ int main(){
     cout << "nomer = " << no << endl;
 
     produk = banyak(5,4);
-    cout << "produk adalah=  " << produk;
+    cout << "produk adalah =  " << produk;
 
     return 0;
 }

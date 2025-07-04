@@ -18,7 +18,7 @@ int main(){
     cout << "Masukan makanan favoritmu: ";
     cin >> imp.makananFaVorit;
 
-    cout << "woto favoritmu! ";
+    cout << "wota favoritmu! ";
     cin >> imp.WotaFavorit;
 
     cout << "\n====== KEHIDUPAN WOTA JKT48 =====\n";

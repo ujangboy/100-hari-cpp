@@ -11,7 +11,7 @@ int main()
     cout << "b sekarang adalah: " << b;
 
     return 0;
-}/**/
+}*/
 
 
 //double ke int

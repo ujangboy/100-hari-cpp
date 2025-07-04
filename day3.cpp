@@ -10,7 +10,7 @@ int main() {
 	jumlah_makanan = makanan1 * makanan2;
 	cout << "jumlahnya adalah: " << jumlah_makanan;
 	return 0;
-}/**/
+}*/
 
 //pertukaran 
 #include <iostream>

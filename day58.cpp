@@ -9,7 +9,7 @@ struct Transaksi
 {
     string tanggal;
     string Keterangan;
-    double jumlah;
+    long double jumlah;
     bool pemasukan; 
 };
 

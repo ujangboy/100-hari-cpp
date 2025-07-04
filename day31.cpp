@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int data[5];
 
-    cout << "maskan angka: " << endl;
+    cout << "masukan angka: " << endl;
     for(int i = 0; i < 5; ++i){
         cin >> data[i];
     }

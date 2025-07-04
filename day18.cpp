@@ -10,8 +10,8 @@ namespace angka2{
 }
 
 int main(){
-   using namespace pertama;
+   using namespace angka2;
 
-    cout << pertama :: x;
+    cout << angka2 :: x;
 
 }

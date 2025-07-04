@@ -20,7 +20,7 @@ int main(){
 
 
 
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main() {
@@ -58,10 +58,10 @@ int main() {
     delete[] matriks;
 
     return 0;
-}*/
+}
 
 
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 
 int main(int argc, char **argv) {
@@ -69,4 +69,4 @@ int main(int argc, char **argv) {
         cout << "Argumen ke-" << i << ": " << argv[i] << endl;
     }
     return 0;
-}
+}*/
